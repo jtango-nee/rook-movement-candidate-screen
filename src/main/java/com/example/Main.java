@@ -23,6 +23,8 @@ Instructions for refactoring:
 - Use Domain Language where it makes sense to do so.
 - Extract classes and methods to provide better / meaningful names
 --------------------------------------------------------------------------------
+When you are finished, commit your code into a branch named: CANDIDATE-[YOUR NAME]
+push to the remote repository and create a pull request.
 */
 
 class RookMovement {
