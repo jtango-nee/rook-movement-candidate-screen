@@ -17,6 +17,12 @@ return POSSIBLE when it should not be a possible move and, refactor this code
 to ensure maximum maintainability and readability by humans who will maintain
 this code in the future.
 --------------------------------------------------------------------------------
+Instructions for refactoring:
+- Ensure working code before refactoring, fix the bug first.
+- Strive for readability and maintainability over code performance
+- Use Domain Language where it makes sense to do so.
+- Extract classes and methods to provide better / meaningful names
+--------------------------------------------------------------------------------
 */
 
 class RookMovement {
